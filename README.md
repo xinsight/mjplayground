@@ -16,8 +16,11 @@ A new playground committee was formed after the 2017 AGM. The goal was to refres
 15 Feb 2018
 [pdf?]
 
+### SHORT-TERM IMPROVMENTS
+29 Apr 2018
+After we were quoted over $140k for a playground build, we decided to step back and look for some inexpensive improvemnts.
 
-
+[Playground Improvments PDF](Playground Improvements.pdf)
 
 
 
