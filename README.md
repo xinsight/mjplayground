@@ -1,4 +1,25 @@
-## Welcome to GitHub Pages
+# MATTHEW-JOHN PLAYGROUND
+
+## WHAT IS THIS?
+This page is a collection/archive/brain-dump of information relating to the playground at the Matthew John Playground Centre. (If anyone stumbles across this that isn't aware, MJDCC is a parent-run daycare in Toronto, Canada.)
+
+## BACKGROUND
+A new playground committee was formed after the 2017 AGM. The goal was to refresh the existing playground which was over 20 years old. The playground also lacked shade as a mature tree in the yard to the west of the playground was removed.
+
+## ACTIVITY (2017-2018)
+
+### STAFF WORKSHOP
+
+- gather feedback from staff about what works with the current playground and what could be improved
+
+### BOARD PRESENTATION
+15 Feb 2018
+[pdf?]
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/xinsight/mjplayground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
