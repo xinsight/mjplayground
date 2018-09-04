@@ -18,47 +18,18 @@ A new playground committee was formed after the 2017 AGM. The goal was to refres
 
 ### SHORT-TERM IMPROVMENTS
 29 Apr 2018
-After we were quoted over $140k for a playground build, we decided to step back and look for some inexpensive improvemnts.
+After we were quoted over $140k for a playground build, we decided to step back and look for some inexpensive improvements.
 
-[Playground Improvments PDF](./Playground Improvements.pdf)
+[Short-term Playground Improvments PDF](./mjdcc-playground-improvements-20180429)
 
-TEST2
-[Playground Improvments PDF](./PlaygroundImprovements.pdf)
+### PARENT WORK EVENT 1
+17 Jun 2018
+  - an intensive cleanup of the playground (e.g. remove excess dirt/sand/dust, remove broken items from the storage shed)
 
+[TODO: photos]
 
+### PARENT WORK EVENT 2
+23-24 Jun 2018
+  - install a 6x6 post, move the sandbox away from the wall, and replace the sand with better quality sand (granite sand)
 
-You can use the [editor on GitHub](https://github.com/xinsight/mjplayground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinsight/mjplayground/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[TODO: photos]
