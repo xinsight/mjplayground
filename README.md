@@ -48,7 +48,7 @@ An intensive cleanup of the playground (e.g. removed excess dirt/sand/dust, remo
 
 Removed old sand, moved the sandbox away from the wall, and replaced the sand with high-quality granite sand.
 
-[fill sandbox](./filling-sandbox.jpg)
+![fill sandbox](./filling-sandbox2.jpg)
 
 ### New Tree
 An Autumn Blaze Maple (80mm ø) was planted on the west side of the playground to provide shade, introduce more natural elements into the playground.
