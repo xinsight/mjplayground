@@ -57,7 +57,7 @@ The tree was 28 Jun 2018 by Upandoak Tree Care and has a 2-year warranty.
 
 A 100' hose was purchased to help with watering the tree. And a watering schedule was posted.
 
-[TODO: photos]
+![autumn blaze maple](./new-tree-800.jpg)
 
 ## Suppliers
  
