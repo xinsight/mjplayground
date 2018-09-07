@@ -61,6 +61,21 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 ![autumn blaze maple](./new-tree-800.jpg)
 
+## Next Projects?
+
+### Playhouse
+ - small house (with green roof)
+ - windows with wide window sill for a work area
+ - wood: cedar 2x4, non-toxic, naturally rot-resistant
+
+![playhouse](model-house-1000.jpg)
+
+### Nature area
+
+- create soft landscaping area by remove stones in west end of playground
+- add playground-certified fibre mulch (15-20cm)
+- fibre mulch mats with use to create a soft "carpet"
+
 ## Suppliers
 
 ### [Upanoak Tree Care](http://upanoak.ca)
