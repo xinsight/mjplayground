@@ -41,16 +41,14 @@ Created a vision of the playground design for the Spring Mingler.
 ### PARENT WORK EVENT 1
 17 Jun 2018
 
-An intensive cleanup of the playground (e.g. removed excess dirt/sand/dust, removed broken items from the storage shed)
-
-[TODO: photos]
+An intensive cleanup of the playground (e.g. removed excess dirt/sand/dust, removed broken items from the storage shed) and installed a 6x6 post for a shade sail over the sandbox.
 
 ### PARENT WORK EVENT 2
 23-24 Jun 2018
 
-Installed a 6x6 post, moved the sandbox away from the wall, and replaced the sand with better quality sand (granite sand)
+Removed old sand, moved the sandbox away from the wall, and replaced the sand with high-quality granite sand.
 
-[TODO: photos]
+[fill sandbox](./filling-sandbox.jpg)
 
 ### New Tree
 An Autumn Blaze Maple (80mm ø) was planted on the west side of the playground to provide shade, introduce more natural elements into the playground.
@@ -63,7 +61,7 @@ A 100' hose was purchased to help with watering the tree. And a watering schedul
 
 ## Suppliers
  
-### (Parkview Building Supply)[http://parkviewonline.ca]
+### [Parkview Building Supply](http://parkviewonline.ca)
 - 416-752-4748
 - used for removing old sand/dirt and woodchips
 - 14 cubic yard bin (for clean fill): $519.80
