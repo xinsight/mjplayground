@@ -68,7 +68,7 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
  - windows with wide window sill for a work area
  - wood: cedar 2x4, non-toxic, naturally rot-resistant
 
-![playhouse](model-house-1000.jpg)
+![playhouse](model-house-800.jpg)
 
 ### Nature area
 
