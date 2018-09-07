@@ -51,22 +51,28 @@ Removed old sand, moved the sandbox away from the wall, and replaced the sand wi
 ![fill sandbox](./filling-sandbox2.jpg)
 
 ### New Tree
+28 Jun 2018
+
 An Autumn Blaze Maple (80mm ø) was planted on the west side of the playground to provide shade, introduce more natural elements into the playground.
 
-The tree was 28 Jun 2018 by Upandoak Tree Care and has a 2-year warranty.
+The tree was planted by Upanoak Tree Care and has a 2-year warranty.
 
-A 100' hose was purchased to help with watering the tree. And a watering schedule was posted.
+A 100' hose was purchased to help with watering the tree, and a watering schedule was posted. The tree needs to be watered twice a week for the first season and then once a week in 2019.
 
 ![autumn blaze maple](./new-tree-800.jpg)
 
 ## Suppliers
- 
+
+### [Upanoak Tree Care](http://upanoak.ca)
+- Contact: Darryl
+- 647-222-1737
+
 ### [Parkview Building Supply](http://parkviewonline.ca)
 - 416-752-4748
 - used for removing old sand/dirt and woodchips
 - 14 cubic yard bin (for clean fill): $519.80
 
-### (Hutcheson Sand and Gravel)[http://www.hutchensonsand.com]
+### [Hutcheson Sand and Gravel](http://www.hutchensonsand.com)
 - high-quality granite csa-compliant playsand
 - sales rep: Eugene eugenet@hutchesonsand.com
 - purchased 5 imperial tons of sand ($90/ton)
@@ -74,6 +80,7 @@ A 100' hose was purchased to help with watering the tree. And a watering schedul
 ### Gro-Bark
 - play mulch
 - Sales rep: Jackson 905-691-8265
+
 Pricing:
 - classic cedar $36/cubic yard
 - fibre top $32.75/cubic yard
