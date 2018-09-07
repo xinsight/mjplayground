@@ -31,9 +31,12 @@ After we were quoted over $140k for a playground build, we decided to step back 
 Created a vision of the playground design for the Spring Mingler.
 
 ![model](./model-front-1600.jpg)
+
+<!--
 ![play house](./model-house-1000.jpg)
 ![east side](./model-side-1000.jpg)
 ![east side 2](./model-side2-1000.jpg)
+-->
 
 ### PARENT WORK EVENT 1
 17 Jun 2018
@@ -57,4 +60,32 @@ The tree was 28 Jun 2018 by Upandoak Tree Care and has a 2-year warranty.
 A 100' hose was purchased to help with watering the tree. And a watering schedule was posted.
 
 [TODO: photos]
+
+## Suppliers
+ 
+### (Parkview Building Supply)[http://parkviewonline.ca]
+- 416-752-4748
+- used for removing old sand/dirt and woodchips
+- 14 cubic yard bin (for clean fill): $519.80
+
+### (Hutcheson Sand and Gravel)[http://www.hutchensonsand.com]
+- high-quality granite csa-compliant playsand
+- sales rep: Eugene eugenet@hutchesonsand.com
+- purchased 5 imperial tons of sand ($90/ton)
+
+### Gro-Bark
+- play mulch
+- Sales rep: Jackson 905-691-8265
+Pricing:
+- classic cedar $36/cubic yard
+- fibre top $32.75/cubic yard
+- Delivery: $230
+- minimum order 20 cubic yards
+
+### GB Stone
+- play mulch
+- (905) 846-2662
+- reseller of Gro-Bark with no minimum order
+- fibre top: $47.50/cubic yard
+- Delivery: $195
 
