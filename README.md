@@ -109,6 +109,10 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 - sales rep: Eugene eugenet@hutchesonsand.com
 - purchased 5 imperial tons of sand ($90/ton)
 
+### [Henderson Recreation Equipment](http://hendersonplay.com/)
+- manufacturer of large play structure (model 1224, order 677090, install date: July 1999)
+- still in business and are able to supply parts for old models
+
 ### Gro-Bark
 - play mulch, playground approved woodchips
 - Sales rep: Jackson 905-691-8265
