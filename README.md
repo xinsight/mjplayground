@@ -30,7 +30,7 @@ After we were quoted over $140k for a playground build, we decided to step back 
 
 31 May 2018
 
-Presented a vision for the redesigned playground at the Spring Mingler.
+Presented a vision for the future playground at the annual Spring Mingler.
 
 ![model](./model-front-1600.jpg)
 
