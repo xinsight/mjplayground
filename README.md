@@ -76,6 +76,23 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 - add playground-certified fibre mulch (15-20cm)
 - fibre mulch mats with use to create a soft "carpet"
 
+### Planters
+ - built with cedar 4x4's or a half-barrel planter
+ - many plant options: flowers (for butterflies), bamboo, vegetables
+
+### Rain barrel
+ - goes well with planters
+ - rain barrel could use the downspout from the rectory
+ - barrel needs to have a filter at the top to prevent insects
+ - barrel needs to be attached to the building to prevent it from tipping over
+
+### Benches
+- reuse the logs from the felled tree branch
+- Logs can be sawed flat, or left as-is with bark
+  - all sharp edges sanded down with a belt sander
+  - logs need to be secured to prevent rolling
+  - log can be notched on both sides and a split log (or 4x4) can be placed in a notch and screwed in
+
 ## Suppliers
 
 ### [Upanoak Tree Care](http://upanoak.ca)
@@ -93,19 +110,18 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 - purchased 5 imperial tons of sand ($90/ton)
 
 ### Gro-Bark
-- play mulch
+- play mulch, playground approved woodchips
 - Sales rep: Jackson 905-691-8265
-
-Pricing:
-- classic cedar $36/cubic yard
-- fibre top $32.75/cubic yard
-- Delivery: $230
-- minimum order 20 cubic yards
+- Mulch pricing:
+  - classic cedar $36/cubic yard
+  - fibre top $32.75/cubic yard
+  - Delivery: $230
+  - minimum order 20 cubic yards
 
 ### GB Stone
-- play mulch
-- (905) 846-2662
 - reseller of Gro-Bark with no minimum order
+- play mulch, woodchips
+- (905) 846-2662
 - fibre top: $47.50/cubic yard
 - Delivery: $195
 
