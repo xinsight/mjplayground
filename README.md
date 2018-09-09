@@ -34,7 +34,26 @@ Presented a vision for the redesigned playground at the Spring Mingler.
 
 ![model](./model-front-1600.jpg)
 
-<!-- TODO: text from matthew? -->
+> The reimagined outdoor
+> play space at Matthew
+> John takes its cues from
+> natural playgrounds and
+> open space: keeping it
+> simple.
+
+> A space to create, to plant,
+> to move water around, to
+> climb and fall and laugh.
+> A space for all seasons.
+> Low maintenance and
+> equally suited to students
+> and teachers, babies and
+> toddlers.
+
+> We envision rustic materials grouped in various play zones,
+> with ample circulation space in between. Pavers get
+> replaced by wood chips, shade comes by way of mature
+> trees, with simple play structures dotting the landscape.
 
 
 ### PARENT WORK EVENT 1
