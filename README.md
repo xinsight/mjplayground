@@ -28,15 +28,14 @@ After we were quoted over $140k for a playground build, we decided to step back 
 
 ### PLAYGROUND VISION
 
-Created a vision of the playground design for the Spring Mingler.
+31 May 2018
+
+Presented a vision for the redesigned playground at the Spring Mingler.
 
 ![model](./model-front-1600.jpg)
 
-<!--
-![play house](./model-house-1000.jpg)
-![east side](./model-side-1000.jpg)
-![east side 2](./model-side2-1000.jpg)
--->
+<!-- TODO: text from matthew? -->
+
 
 ### PARENT WORK EVENT 1
 17 Jun 2018
@@ -48,6 +47,7 @@ An intensive cleanup of the playground (e.g. removed excess dirt/sand/dust, remo
 
 Removed old sand, moved the sandbox away from the wall, and replaced the sand with high-quality granite sand.
 
+![empty sandbox](./empty-sandbox.jpg)
 ![fill sandbox](./filling-sandbox2.jpg)
 
 ### New Tree
