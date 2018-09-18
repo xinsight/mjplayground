@@ -86,6 +86,8 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 ## Meeting Minutes
 
+Note: This is an incomplete record as we didn't always prepare a summary after every meeting.
+
 - [2017-11-15](./playground-20171115.md)
 - [2017-12-07](./playground-20171207.md)
 - [2018-03-13](./playground-20180313.md)
@@ -123,7 +125,7 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
   - log can be notched on both sides and a split log (or 4x4) can be placed in a notch and screwed in
 
 ### Demolition of existing playstructure
-- two quotes for the demo were around $2000 [demolition quote 1](./rdm_demolition_quote.pdf)
+- two quotes for the demo were around $2000 ([demolition quote 1](./rdm_demolition_quote.pdf))
 - demo is relatively straightforward, but the real issue is: What to build after?
 - there are many rules/proesses around fixed playground equipment. For example: The ministry of education needs to be informed of any changes.
 
@@ -152,7 +154,7 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 - 416-617-3644
 - has been previously hired by MJDCC to make repairs to existing Henderson playstructure
 - can build conventional, wooden playstructures
-- quoted for demo (and disposal) of existing playstructure: ~$2,000
+- informally quoted for demo and disposal of existing playstructure: $2,000
 
 ### [Upanoak Tree Care](http://upanoak.ca)
 - Contact: Darryl
