@@ -88,7 +88,7 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 The total out-of-pocket cost of the short-term improvements was: $3,628
 
-[](./playground_expenses.pdf)
+[playground expenses PDF](./playground_expenses.pdf)
 
 ## Meeting Minutes
 
@@ -161,6 +161,11 @@ Note: This is an incomplete record as we didn't always prepare a summary after e
 - has been previously hired by MJDCC to make repairs to existing Henderson playstructure
 - can build conventional, wooden playstructures
 - informally quoted for demo and disposal of existing playstructure: $2,000
+
+## Jeff Elliot Playground Inspection
+- performs regular inspections of the playground
+- 519-883-8224
+- [inspection report from Oct 2017](./playground-inspection-2017-10-06.pdf)
 
 ### [Upanoak Tree Care](http://upanoak.ca)
 - Contact: Darryl
