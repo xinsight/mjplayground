@@ -88,7 +88,7 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 The total out-of-pocket cost of the short-term improvements was: $3,628
 
-[./playground_expenses.pdf]
+[](./playground_expenses.pdf)
 
 ## Meeting Minutes
 
