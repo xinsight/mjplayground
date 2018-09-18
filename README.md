@@ -86,9 +86,9 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 ## Meeting Minutes
 
-[2017-11-15](./playground-20171115.md)
-[2017-12-07](./playground-20171207.md)
-[2018-03-13](./playground-20180313.md)
+- [2017-11-15](./playground-20171115.md)
+- [2017-12-07](./playground-20171207.md)
+- [2018-03-13](./playground-20180313.md)
 
 ## Next Projects?
 
@@ -122,7 +122,20 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
   - logs need to be secured to prevent rolling
   - log can be notched on both sides and a split log (or 4x4) can be placed in a notch and screwed in
 
+### Demolition of existing playstructure
+- two quotes for the demo were around $2,000
+- demo is relatively straightforward, but the real issue is: What to build after?
+- involves notification to the city/province that the playground will be unavailable
+- perhaps requires a playground inspection AFTER demolition (?)
+
+
 ## Suppliers
+
+### Highland Gym
+- TODO: frank?
+- has been hired to make repairs to existing Henderson playstructure
+- can build conventional, wooden playstructures
+- quoted for demo (and disposal) of existing playstructure: $2,000
 
 ### [Upanoak Tree Care](http://upanoak.ca)
 - Contact: Darryl
