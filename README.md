@@ -123,28 +123,36 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
   - log can be notched on both sides and a split log (or 4x4) can be placed in a notch and screwed in
 
 ### Demolition of existing playstructure
-- two quotes for the demo were around $2,000
+- two quotes for the demo were around $2000 [demolition quote 1](./rdm_demolition_quote.pdf)
 - demo is relatively straightforward, but the real issue is: What to build after?
 - there are many rules/proesses around fixed playground equipment. For example: The ministry of education needs to be informed of any changes.
 
 > Submit an email request which includes the following: 
 >
-> -       Nature and scope of the work (what changes will be made)
-> -       Anticipated start and end date
-> -       Playground plans which include unobstructed measurement, fence height, location of gates and whether or not there will be fixed equipment
-> -       Action plan regarding how the minimum of two hours of outdoor time requirement will be met for each child enrolled where the playground will not be available for use during the renovation
-> -       Where changes/alterations will be made to fixed structures and/or new fixed structures will be added, a third party inspection will be required to be submitted to the Ministry prior to children’s use
+> - Nature and scope of the work (what changes will be made)
+> - Anticipated start and end date
+> - Playground plans which include unobstructed measurement, 
+>   fence height, location of gates and whether or not there will 
+>   be fixed equipment
+> - Action plan regarding how the minimum of two hours of outdoor 
+>   time requirement will be met for each child enrolled where the 
+>   playground will not be available for use during the renovation
+> - Where changes/alterations will be made to fixed structures and/or 
+>   new fixed structures will be added, a third party inspection will 
+>   be required to be submitted to the Ministry prior to children’s use
 > 
 > Once the following is submitted I will request a Playground Minor Alteration/renovation Approval Letter for your records. 
-> Source: Program Advisor from Ministry of Education
+
+*Source: Program Advisor from Ministry of Education*
 
 ## Suppliers
 
-### Highland Gym
-- TODO: frank?
-- has been hired to make repairs to existing Henderson playstructure
+### [Highland Gym / National Sports Equipment Repair Ltd.](http://www.highlandgym.ca/)
+- contact: Frank Calogero
+- 416-617-3644
+- has been previously hired by MJDCC to make repairs to existing Henderson playstructure
 - can build conventional, wooden playstructures
-- quoted for demo (and disposal) of existing playstructure: $2,000
+- quoted for demo (and disposal) of existing playstructure: ~$2,000
 
 ### [Upanoak Tree Care](http://upanoak.ca)
 - Contact: Darryl
