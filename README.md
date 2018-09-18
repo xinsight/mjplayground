@@ -84,6 +84,12 @@ A 100' hose was purchased to help with watering the tree, and a watering schedul
 
 ![autumn blaze maple](./new-tree-800.jpg)
 
+## EXPENSES
+
+The total out-of-pocket cost of the short-term improvements was: $3,628
+
+(./playground_expenses.pdf)
+
 ## Meeting Minutes
 
 Note: This is an incomplete record as we didn't always prepare a summary after every meeting.
