@@ -12,6 +12,8 @@ A new playground committee was formed after the 2017 AGM. The goal was to refres
 
 - gather feedback from staff about what works with the current playground and what could be improved
 
+[workshop reflections](./playground-workshop-reflections.md)
+
 ### BOARD PRESENTATION
 15 Feb 2018
 
@@ -81,6 +83,12 @@ The tree was planted by Upanoak Tree Care and has a 2-year warranty.
 A 100' hose was purchased to help with watering the tree, and a watering schedule was posted. The tree needs to be watered twice a week for the first season and then once a week in 2019.
 
 ![autumn blaze maple](./new-tree-800.jpg)
+
+## Meeting Minutes
+
+[2017-11-15](./playground-20171115.md)
+[2017-12-07](./playground-20171207.md)
+[2018-03-13](./playground-20180313.md)
 
 ## Next Projects?
 
